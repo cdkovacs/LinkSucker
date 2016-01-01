@@ -1,0 +1,6 @@
+*.csv
+build/
+lib/
+.idea
+.gradle
+LinkSucker.i*
